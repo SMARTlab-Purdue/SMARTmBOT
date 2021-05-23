@@ -1,0 +1,6 @@
+smartmbot_16:
+  Writing_DC_Motor:
+    ros__parameters:
+      use_sim_time: false
+      w_left_motor: 1.0
+      w_right_motor: 1.0

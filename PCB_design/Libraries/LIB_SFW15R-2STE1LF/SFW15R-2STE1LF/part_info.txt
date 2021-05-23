@@ -1,0 +1,9 @@
+Manufacturer=Amphenol
+PartNumber=SFW15R-2STE1LF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=17
+Version=1.1
+Released=2018-12-20 17:13:57
+Downloaded=2020-10-23 03:21:18
+3D=Y

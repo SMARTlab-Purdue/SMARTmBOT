@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SFW15R-2STE1LF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-08-14:10:48)
+    (mountForm default
+        (footprintRef "SFW15R2STE1LF")
+        (spec "System")
+    )
+)

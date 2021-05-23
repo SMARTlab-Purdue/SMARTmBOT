@@ -1,0 +1,13 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"POPULARITY";"PROD_ID";"SF_ID";
+"J1";"RASPBERRYPI-40-PIN-GPIO_PTH";"RASPBERRYPI-40-PIN-GPIO_PTH";"2X20_SHROUDED";"Raspberry Pi GPIO Header";"";"";"";"";"";"CONN-12263";"PRT-13054";
+"J2";"XF2E-1215-1";"XF2E-1215-1";"XF2E-1215-1";"OMRON FPC Connector";"";"";"unknown";"unknown";"";"";"";
+"JP1";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP2";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP3";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP4";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP5";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP6";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP7";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP8";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";"";"";"";"";"";
+"JP_1";"";"PINHD-1X20";"1X20";"PIN HEADER";"";"";"";"";"6";"";"";
+"JP_2";"";"PINHD-1X20";"1X20";"PIN HEADER";"";"";"";"";"6";"";"";

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFW15R_2STE1LF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER2_PART_NUMBER", "MOUSER2_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "SFW15R-2STE1LF" (!) = "", "SFW15R2STE1LF", "Other", "", "", "FFC & FPC Connectors 15P SIDE SMT ZIF UPPER CONTACT", "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/sfw12lf.pdf", "2.7 mm"
+END_PART
+
+END.

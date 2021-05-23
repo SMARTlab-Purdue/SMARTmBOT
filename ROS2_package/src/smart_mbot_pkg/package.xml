@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>smart_mbot_pkg</name>
+  <version>0.0.1</version>
+  <description>This package is for ROS2 based mobile robot platfom on Raspberry pi 4, called SMARTmBOT. If you need more information, lease visit our site; https://github.itap.purdue.edu/ByungcheolMinGroup/smart_mbot_ws></description>
+  <maintainer email="jow@purdue.edu">SMART Lab (Wonse Jo and Jaeeun Kim)</maintainer>
+  <license>GNU General Public License v3.0: gpl-3.0</license>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

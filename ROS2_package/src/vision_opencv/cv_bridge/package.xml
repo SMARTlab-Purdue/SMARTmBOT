@@ -1,0 +1,41 @@
+<package format="2">
+  <name>cv_bridge</name>
+  <version>2.2.1</version>
+  <description>
+    This contains CvBridge, which converts between ROS2
+    Image messages and OpenCV images.
+  </description>
+  <author>Patrick Mihelich</author>
+  <author>James Bowman</author>
+  <maintainer email="ethan.gao@linux.intel.com">Ethan Gao</maintainer>
+  <license>BSD</license>
+  <url type="website">http://www.ros.org/wiki/cv_bridge</url>
+  <url type="repository">https://github.com/ros-perception/vision_opencv/tree/ros2</url>
+  <url type="bugtracker">https://github.com/ros-perception/vision_opencv/issues</url>
+
+  <export>
+    <rosdoc config="rosdoc.yaml" />
+    <build_type>ament_cmake</build_type>
+  </export>
+
+  <buildtool_depend>ament_cmake_ros</buildtool_depend>
+  <buildtool_depend>python_cmake_module</buildtool_depend>
+
+  <build_depend>libboost-dev</build_depend>
+  <build_depend>libboost-python-dev</build_depend>
+
+  <depend>libopencv-dev</depend>
+  <depend>python3-numpy</depend>
+  <depend>sensor_msgs</depend>
+
+  <exec_depend>ament_index_python</exec_depend>
+  <exec_depend>libboost-python</exec_depend>
+
+  <test_depend>ament_cmake_gtest</test_depend>
+  <test_depend>ament_cmake_pytest</test_depend>
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+  <test_depend>python3-opencv</test_depend>
+
+  <doc_depend>dvipng</doc_depend>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schem/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <!-- TODO: Make this a metapackage, see
+       https://github.com/ros2/ros2/issues/408 -->
+  <name>image_transport_plugins</name>
+  <version>2.3.0</version>
+    <description>
+    A set of plugins for publishing and subscribing to sensor_msgs/Image topics
+    in representations other than raw pixel data. For example, for viewing a
+    stream of images off-robot, a video codec will give much lower bandwidth
+    and latency. For low frame rate tranport of high-definition images, you
+    might prefer sending them as JPEG or PNG-compressed form.
+  </description>
+  <author>Patrick Mihelich</author>
+  <author>Julius Kammerl</author>
+  <maintainer email="michael@openrobotics.org">Michael Carroll</maintainer>
+  <license>BSD</license>
+
+  <url type="website">http://www.ros.org/wiki/image_transport_plugins</url>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>compressed_depth_image_transport</exec_depend>
+  <exec_depend>compressed_image_transport</exec_depend>
+  <exec_depend>theora_image_transport</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>

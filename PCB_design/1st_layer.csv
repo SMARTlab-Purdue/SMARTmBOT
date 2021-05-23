@@ -1,0 +1,14 @@
+"Part";"Value";"Device";"Package";"Description";"AVAILABILITY";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"DIGI-KEY_PURCHASE_URL";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"PRICE";"PROD_ID";"VALUE";
+"J1";"";"CONN_08LONGPADS";"1X08_LONGPADS";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"J2";"XF2E-1215-1";"XF2E-1215-1";"XF2E-1215-1";"OMRON FPC Connector";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"";"";
+"R1_200";"200";"200OHM-0603-1/10W-1%";"0603";"200Ω resistor";"";"";"";"";"";"";"";"";"";"";"";"RES-08220";"200";
+"R2_200";"200";"200OHM-0603-1/10W-1%";"0603";"200Ω resistor";"";"";"";"";"";"";"";"";"";"";"";"RES-08220";"200";
+"R3_68K";"68OHM-0603-1/10W-1%";"68OHM-0603-1/10W-1%";"0603";"68Ω resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"R4_68K";"68OHM-0603-1/10W-1%";"68OHM-0603-1/10W-1%";"0603";"68Ω resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"S1";"OPTICAL-RPR-220(4P-6.4X4.9MM)";"OPTICAL-RPR-220(4P-6.4X4.9MM)";"SNR4-8.7X4.5X5.8MM";"314020002";"";" Reflective Optical Sensor 0.236 _6mm_ Radial - 4 Leads ";"511-1366-ND";"https://www.digikey.com/product-detail/en/rohm-semiconductor/RPR-220/511-1366-ND/638554?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol";"Rohm";"RPR-220";"";"";"";"Radial-4 Rohm";"";"";"";
+"S2";"OPTICAL-RPR-220(4P-6.4X4.9MM)";"OPTICAL-RPR-220(4P-6.4X4.9MM)";"SNR4-8.7X4.5X5.8MM";"314020002";"";" Reflective Optical Sensor 0.236 _6mm_ Radial - 4 Leads ";"511-1366-ND";"https://www.digikey.com/product-detail/en/rohm-semiconductor/RPR-220/511-1366-ND/638554?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol";"Rohm";"RPR-220";"";"";"";"Radial-4 Rohm";"";"";"";
+"U1";"MCU-MCP3008-I/P(DIP16-7.62MM)";"MCU-MCP3008-I/P(DIP16-7.62MM)";"DIP16-2.54-19.2X7.62MM";"310990040";"Unavailable";" 10 Bit Analog to Digital Converter 4, 8 Input 1 SAR 16-PDIP ";"";"";"Microchip";"MCP3008-I/P";"";"";"";"DIP-16 Microchip";"None";"";"";
+"U2";"L293D";"L293D";"DIP880W50P254L2000H510Q16";"4-Channel Motor Driver 24V 16-Pin Power PDIP Tube";"Unavailable";" Bipolar Motor Driver Parallel 16-PowerDIP ";"";"";"STMicroelectronics";"L293D";"";"";"";"DIP-16 STMicroelectronics";"None";"";"";
+"X1";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PACKAGE-ROUND-PAD";"JST XH Connector 2 Pin";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"X2";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PACKAGE-ROUND-PAD";"JST XH Connector 2 Pin";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"X3";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PIN-ROUND-PAD";"JST-XH-02-PACKAGE-ROUND-PAD";"JST XH Connector 2 Pin";"";"";"";"";"";"";"";"";"";"";"";"";"";

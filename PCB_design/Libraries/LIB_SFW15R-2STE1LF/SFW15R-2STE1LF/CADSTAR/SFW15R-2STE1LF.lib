@@ -1,0 +1,17 @@
+.SFW15R-2STE1LF :1 ;FFC & FPC Connectors 15P SIDE SMT ZIF UPPER CONTACT
+SFW15R2STE1LF
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=MP1 17=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="MP1" 17="MP2"
+*MXP 17
+*DFN SFW15R-2STE1LF
+~!Mouser2 Part Number (-)
+~!Mouser2 Price/Stock (-)
+~!Manufacturer_Name (Amphenol)
+~!Manufacturer_Part_Number (SFW15R-2STE1LF)
+~!Link Datasheet (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/sfw12lf.pdf)
+~!Height (2.7mm)
+~!3D_Model (SFW15R-2STE1LF)
+SFW15R-2STE1LF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 
