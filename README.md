@@ -1,4 +1,4 @@
-[![SMARTmBOT Ver2021](https://yt-embed.herokuapp.com/embed?v=cn3vcqFgf90)](https://www.youtube.com/watch?v=cn3vcqFgf90 "SMARTmBOT Ver2021")
+<td align="center">[![SMARTmBOT Ver2021](https://yt-embed.herokuapp.com/embed?v=cn3vcqFgf90)](https://www.youtube.com/watch?v=cn3vcqFgf90 "SMARTmBOT Ver2021")
 
 
 This repository is to introduce an opensource-based mobile robot platform, called SMARTmBOT (v2021). The platform supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Moreover, this repository provides all design files and source codes to build the SMARTmBOT.
