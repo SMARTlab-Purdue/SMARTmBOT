@@ -4,7 +4,7 @@ This repository is to introduce an opensource-based mobile robot platform, calle
 
 You can easily develop the mobile robot platform if you carefully follow the tutorials available in this repository. If you have any issues and find errors, please let us know. We will update them as soon as possible.
 
-Please refer to our [Wiki page](https://github.itap.purdue.edu/ByungcheolMinGroup/SMARTmBOT/wiki) for detailed tutorials, and also you can find it out from a ![SMARTmBOT's manual]https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf). 
+Please refer to our [Wiki page](https://github.itap.purdue.edu/ByungcheolMinGroup/SMARTmBOT/wiki) for detailed tutorials, and also you can find it out from a ![SMARTmBOT's manual](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf). 
 
 
 
