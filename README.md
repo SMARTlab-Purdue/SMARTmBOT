@@ -1,4 +1,4 @@
-![smartlab_github_image](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/SMARTmBOT_GitHub.jpg)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cn3vcqFgf90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This repository is to introduce an opensource-based mobile robot platform, called SMARTmBOT (v2021). The platform supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Moreover, this repository provides all design files and source codes to build the SMARTmBOT.
 
