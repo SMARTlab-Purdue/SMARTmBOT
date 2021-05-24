@@ -41,5 +41,6 @@ Contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), D
 
 This material is based upon work supported by the National Science Foundation under [Grant No. IIS-1846221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846221&HistoricalAwards=false&_ga=2.259294090.1882798323.1621529444-1742909408.1612301322). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-![NSG_image](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/nsf.jpg)
+![NSF_image](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/nsf.jpg)
+![SMART_image](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/SMART-LAB_Full-Name(Below).jpg)
 
