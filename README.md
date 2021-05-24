@@ -1,4 +1,4 @@
-<td align="center">[![SMARTmBOT Ver2021](https://yt-embed.herokuapp.com/embed?v=cn3vcqFgf90)](https://www.youtube.com/watch?v=cn3vcqFgf90 "SMARTmBOT Ver2021")
+[![SMARTmBOT Ver2021](https://yt-embed.herokuapp.com/embed?v=cn3vcqFgf90)](https://www.youtube.com/watch?v=cn3vcqFgf90 "SMARTmBOT Ver2021")
 
 
 This repository is to introduce an opensource-based mobile robot platform, called SMARTmBOT (v2021). The platform supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Moreover, this repository provides all design files and source codes to build the SMARTmBOT.
@@ -16,17 +16,17 @@ Contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), D
   <tr>
 
 
-<td align="center"><a href="http://www.smart-laboratory.org/group/Jaeeun_Kim.html"><img src="/media/Jaeeun_Kim.jpg" width="200px;" alt=""/><br />
+<td align="center"><a href="http://www.smart-laboratory.org/group/Jaeeun_Kim.html"><img src="https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/people/Jaeeun_Kim.jpg" width="200px;" alt=""/><br />
               <sub><b><a href="http://www.smart-laboratory.org/group/Jaeeun_Kim.html" title="personal_website">🌍Jaeeun Kim</b></sub></a><br />
 <sub><b>Software</b></sub></a><br />
 <sub><b><a href="mailto: kim2592@purdue.edu" title="contact">kim2592@purdue.edu </a></b></sub></a><br />
 
-<td align="center"><a href="http://www.smart-laboratory.org/group/Wonse_Jo.html"><img src="/media/Wonse_Jo.png" width="200px;" alt=""/><br />
+<td align="center"><a href="http://www.smart-laboratory.org/group/Wonse_Jo.html"><img src="https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/people/Wonse_Jo.png" width="200px;" alt=""/><br />
           <sub><b><a href="http://www.smart-laboratory.org/group/Wonse_Jo.html" title="personal_website">🌍Wonse Jo</b></sub></a><br />
 <sub><b>Hardware</b></sub></a><br />
 <sub><b><a href="mailto: jow@purdue.edu" title="contact">jow@purdue.edu</a></b></sub></a><br />
 </td>
-<td align="center"><a href="http://www.smart-laboratory.org/group/bcm.html"><img src="/media/Byung-Cheol_Min.png" width="200px;" alt=""/><br />
+<td align="center"><a href="http://www.smart-laboratory.org/group/bcm.html"><img src="https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/people/Byung-Cheol_Min.png" width="200px;" alt=""/><br />
   <sub><b><a href="http://www.smart-laboratory.org/group/bcm.html" title="personal_website">🌍Byung-Cheol Min</b></sub></a><br />
 <sub><b>Director</b></sub></a><br />
 <sub><b><a href="mailto: minb@purdue.edu" title="contact">minb@purdue.edu</a></b></sub></a><br />
