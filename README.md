@@ -2,7 +2,7 @@
 ![GitHub markdown](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/SMARTmBOT_GitHub.jpg)
 
 
-The goal of this repository is to introduce a new, flexible, scalable, and fully opensource mobile robot platform, called SMARTmBOT (v2021). SMARTmBOT supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. This repository provides a tutorial, and all design files and source codes so that you can build SMARTmBOT it by yourself. SMARTmbOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics.
+The goal of this repository is to introduce a new, flexible, scalable, and fully opensource mobile robot platform, called SMARTmBOT (v2021), and to provide a detailed tutorial, and all design files and source codes to help you build your own SMARTmbOT. SMARTmBOT supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Thus, SMARTmbOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics.
 
 Please refer to our [Wiki page](https://github.com/SMARTlab-Purdue/SMARTmBOT/wiki) for a detailed tutorial on SMARTmBOT. You can also read the tutorial in pdf at [SMARTmBOT's guide](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf), and watch a full demo video of the SMARTmBOT at <https://youtu.be/cn3vcqFgf90>.
 
