@@ -9,7 +9,7 @@ Please refer to our [Wiki page](https://github.com/SMARTlab-Purdue/SMARTmBOT/wik
 If you have any questions or find any issues on SMARTmBOT, please feel free to contact us. We will fix and update them as soon as possible.
 
 ## Contributors
-All of the contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), Department of Computer and Information Technology, Purdue University, West Lafayette, IN 47907, USA;<br />
+All of the contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), Department of Computer and Information Technology, Purdue University, West Lafayette, IN 47907, USA.<br />
 
 <table>
   <tr>
