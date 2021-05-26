@@ -2,16 +2,14 @@
 ![GitHub markdown](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/SMARTmBOT_GitHub.jpg)
 
 
-This repository is to introduce an opensource-based mobile robot platform, called SMARTmBOT (v2021). The platform supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Moreover, this repository provides all design files and source codes to build the SMARTmBOT.
+The goal of this repository is to introduce a new, flexible, scalable, and fully opensource mobile robot platform, called SMARTmBOT (v2021), and to provide a detailed tutorial, and all design files and source codes to help you build your own SMARTmBOT. SMARTmBOT supports a new Robot Operating System 2 (ROS2) on Raspberry Pi 4. Thus, SMARTmbOT can be useful for studying the basics of robotics, especially mobile robotics. It can also be used to study advanced topics such as swarm robotics.
 
-You can easily develop the mobile robot platform if you carefully follow the tutorials available in this repository. If you have any issues and find errors, please let us know. We will update them as soon as possible.
+Please refer to our [Wiki page](https://github.com/SMARTlab-Purdue/SMARTmBOT/wiki) for a detailed tutorial on SMARTmBOT. You can also read the tutorial in pdf at [SMARTmBOT's guide](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf), and watch a full demo video of the SMARTmBOT at <https://youtu.be/cn3vcqFgf90>.
 
-Please refer to our [Wiki page](https://github.com/SMARTlab-Purdue/SMARTmBOT/wiki) for detailed tutorials, and also you can find it out from a [SMARTmBOT's manual](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf). 
-
-
+If you have any questions or find any issues on SMARTmBOT, please feel free to contact us. We will fix and update them as soon as possible.
 
 ## Contributors
-Contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), Department of Computer and Information Technology, Purdue University, West Lafayette, IN 47907, USA;<br />
+All of the contributors are with [SMART Lab](http://www.smart-laboratory.org/index.html), Department of Computer and Information Technology, Purdue University, West Lafayette, IN 47907, USA.<br />
 
 <table>
   <tr>
