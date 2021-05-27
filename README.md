@@ -16,7 +16,7 @@ Please refer to our [Wiki page](https://github.com/SMARTlab-Purdue/SMARTmBOT/wik
 
 4. [SMARTmBOT Examples](https://github.com/SMARTlab-Purdue/SMARTmBOT/wiki/4.-SMARTmBOT-Examples)
 
-You can also read the [SMARTmBOT's guide](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf) in PDF, and watch a full demo video of the SMARTmBOT at <https://youtu.be/cn3vcqFgf90>.
+You can also read or download a PDF version of [SMARTmBOT Guide/Manual](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/Documents/SMARTmBOT_Manual.pdf), and watch a full demo video of the SMARTmBOT at <https://youtu.be/cn3vcqFgf90>.
 
 # Contact
 If you have any questions or find any issues on SMARTmBOT, please feel free to contact us. We will fix and update them as soon as possible.
