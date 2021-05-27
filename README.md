@@ -1,4 +1,4 @@
-
+# SMART lab multi-roBOT (SMARTmBOT)
 ![GitHub markdown](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/SMARTmBOT_GitHub.jpg)
 
 
