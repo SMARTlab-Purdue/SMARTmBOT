@@ -1,0 +1,11 @@
+float32 x_trans
+float32 y_trans
+float32 z_trans
+float32 x_rot
+float32 y_rot
+float32 z_rot
+float32 w
+string segment_name
+string subject_name
+int32 frame_number
+string translation_type
